@@ -15,14 +15,35 @@ Developer area : http://developer.berlios.de/projects/plyme/
 MAILING LIST :
 
 Developer (general) : plyme-dev@lists.berlios.de
-[subscribe : http://lists.berlios.de/mailman/listinfo/plyme-dev]
-[archives  : http://lists.berlios.de/pipermail/plyme-dev]
+[ subscribe : http://lists.berlios.de/mailman/listinfo/plyme-dev               ]
+[ archives  : http://lists.berlios.de/pipermail/plyme-dev                      ]
 
 SVN checkins : plyme-svncheckins@lists.berlios.de
-[subscribe : http://lists.berlios.de/mailman/listinfo/plyme-svncheckins]
-[archives  : http://lists.berlios.de/pipermail/plyme-svncheckins]
+[ subscribe : http://lists.berlios.de/mailman/listinfo/plyme-svncheckins       ]
+[ archives  : http://lists.berlios.de/pipermail/plyme-svncheckins              ]
 
 --------------------------------------------------------------------------------
 
-Other information coming soon.
+LICENCE :
+
+Default Licence is "Mozilla Public Licence 1.1 (MPL 1.1)", see COPYING for more
+information.
+
+--------------------------------------------------------------------------------
+
+SVN :
+
+/README
+[ This file, general information                                               ]
+
+/COPYING
+[ Default licence for plyme main project and all subproject                    ]
+
+/plyme-core-alpha/
+[ Description coming soon                                                      ]
+
+/plyme-gui-alpha/
+[ Description coming soon                                                      ]
+
+--------------------------------------------------------------------------------
 
